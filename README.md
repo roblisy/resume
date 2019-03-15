@@ -1,2 +1,2 @@
 # Rob Lisy
-Experienced Analytics, Data Science, and BI professional accostomed to working in data environments rich with uncertainty.
+Experienced Analytics, Data Science, and BI professional accustomed to working in data environments rich with uncertainty.
