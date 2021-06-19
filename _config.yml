@@ -48,13 +48,13 @@ linkedin_username: rob-lisy-a4a9008
 # about_title: About Me
 about_profile_image: images/Lisy_94.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm Rob and I work with the Google Domains team to make buying domains a better experience. I've been working in the data science / analytics / business intelligence space for over a decade, in industries like healthcare, SaaS, retail, manufacturing, and finance.
+  I'm Rob 
+  
+  I've been working in the data science / analytics / business intelligence space for over a decade, in industries like healthcare, SaaS, retail, manufacturing, and finance. I currently work with the Google Domains team to make buying domains a better experience.
 
 #  I am most skilled in: 
-#    <mark>Cloud technologies</mark>
-#    <mark>SQL</mark>
-#    <mark>Databases</mark>
-#    <mark>Dat s</mark>
+#    <mark>thing A</mark>
+#    <mark>thing B</mark>
 
 content:
 #  - title: Projects # Title for the section
@@ -99,18 +99,38 @@ content:
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Managed team of analysts and data science to help improve marketing, product, finance, and customer service at Moz.
+      - layout: left
+        title: Nordstrom
+        link: nordstrom.com
+        link_text: nordstrom.com
+        sub_title: Data Scientist
+        caption:  March 2017 - May 2019
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Focused on problems of attribution, measurement, and marketing efficacy.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: University of Washington Professional & Continuing Education
+        caption: 2020
+        sub_title: Certificate, Data Science
+        
+      - layout: left
         title: Case Western Reserve University, Weatherhead School of Management
         caption: 2007 - 2008
         sub_title: Managment of Information Science
-        #quote: >
-        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           President of the IT club.
+      
+      - layout: left
+        title: Denison University
+        caption: 2000 - 2004
+        sub_title: English Literature
+        description: | # this will include new lines to allow paragraphs
+          3x NCAA All-American swimmer
 
   #- title: A Little More About Me
   #  layout: text
